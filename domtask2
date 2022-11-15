@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <link rel="stylesheet" href="pathan.css">
+
+</head>
+
+<body>
+
+   
+
+    <center>
+
+         <div id="container">
+
+<h2>Book A Call </h2>
+
+
+
+
+
+     <!-- <logo ng-repeat="img in images" ng-slicks></logo> -->
+
+
+
+
+
+
+
+        <h1> UpSkills</h1>
+
+     <h2>Sharpener Registration form</h2> 
+
+   
+
+    <form id="form" onsubmit="store(event)"> 
+
+     
+
+
+
+        first Name:<input type="text" placeholder="enter first name">
+
+        <br>
+
+
+
+
+
+        last Name:<input type="text" placeholder="enter last name">
+
+        <br>
+
+
+
+
+
+        enter Password:<input type="password" placeholder="Password">
+
+        <br>
+
+
+
+
+
+        select gender:<input type="radio" name="gender">male
+
+        <input type="radio" name="gender">female
+
+        <br>
+
+
+
+
+
+
+
+        <button type="submit" name="submit form">Submit application</button>
+
+        <input type="reset">
+
+    </form>
+
+</center>
+
+ </div>
+
+
+
+</body>
+
+</html>
